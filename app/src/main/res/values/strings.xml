@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Controle de Pessoas</string>
+    <string name="novo">Novo</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="alterar">Alterar</string>
+    <string name="excluir">Excluir</string>
+    <string name="nova_pessoa">Nova Pessoa</string>
+    <string name="alterar_pessoa">Alterar Pessoa</string>
+    <string name="erro_nome_vazio">Nome não pode ser vazio!</string>
+    <string name="nome">Nome</string>
+</resources>
